@@ -1,0 +1,16 @@
+{
+    "6782b54268a7e": {
+        "name": "ESRA",
+        "email": "esra@gmail.com",
+        "password": "esra",
+        "is_admin": true,
+        "id": "6782b54268a7e"
+    },
+    "67832183df6e8": {
+        "name": "user",
+        "email": "user@gmail.com",
+        "password": "user",
+        "is_admin": false,
+        "id": "67832183df6e8"
+    }
+}
